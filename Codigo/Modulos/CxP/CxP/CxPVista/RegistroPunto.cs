@@ -21,7 +21,7 @@ namespace CxPVista
         {
             //Navegador
             NavegadorVista.Navegador.idApp = "5004";
-            TextBox[] Grupotextbox = { txtId, txtPuntosA, txtCliente, txtPuntosU };
+            TextBox[] Grupotextbox = { txtId, txtCliente, txtPuntosA, txtPuntosU };
             TextBox[] Idtextbox = { txtId, txtPuntosA };
             navegador1.textbox = Grupotextbox;
             navegador1.tabla = dataGridView1;
