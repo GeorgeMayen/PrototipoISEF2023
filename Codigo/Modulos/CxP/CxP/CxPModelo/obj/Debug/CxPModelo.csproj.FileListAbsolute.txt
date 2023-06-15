@@ -1,0 +1,11 @@
+C:\Users\Mayén Ramírez\Desktop\IS\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPModelo\bin\Debug\CxPModelo.dll
+C:\Users\Mayén Ramírez\Desktop\IS\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPModelo\bin\Debug\CxPModelo.pdb
+C:\Users\Mayén Ramírez\Desktop\IS\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.csproj.CoreCompileInputs.cache
+C:\Users\Mayén Ramírez\Desktop\IS\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.dll
+C:\Users\Mayén Ramírez\Desktop\IS\proyectois2k23\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.pdb
+C:\Users\Mayén Ramírez\Desktop\ExamenFinal_IS_GeorgeMayén\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPModelo\bin\Debug\CxPModelo.dll
+C:\Users\Mayén Ramírez\Desktop\ExamenFinal_IS_GeorgeMayén\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPModelo\bin\Debug\CxPModelo.pdb
+C:\Users\Mayén Ramírez\Desktop\ExamenFinal_IS_GeorgeMayén\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.csproj.AssemblyReference.cache
+C:\Users\Mayén Ramírez\Desktop\ExamenFinal_IS_GeorgeMayén\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.csproj.CoreCompileInputs.cache
+C:\Users\Mayén Ramírez\Desktop\ExamenFinal_IS_GeorgeMayén\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.dll
+C:\Users\Mayén Ramírez\Desktop\ExamenFinal_IS_GeorgeMayén\PrototipoISEF2023\Codigo\Modulos\CxP\CxP\CxPModelo\obj\Debug\CxPModelo.pdb
