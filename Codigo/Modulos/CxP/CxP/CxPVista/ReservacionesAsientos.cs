@@ -21,6 +21,7 @@ namespace CxPVista
 
         private void btnHelp_Click(object sender, EventArgs e)
         {
+            //ruta de la ayuda
             string rutaAyuda = "../../../../../../../Ayuda/Modulos/CxP/MovimientosCxP/AyudaCxP.chm";
             Help.ShowHelp(ParentForm, rutaAyuda, "CuentasPorPagar.html");
         }
@@ -29,7 +30,7 @@ namespace CxPVista
         {
             TextBox[] Grupo1 = { txtIdAsiento, txtIdSala, txtFila, txtColumna };
             TextBox[] Grupo2 = { txtIdReservación, txtAsiento, txtSubtotal, txtIdFactura };
-            //cn.op(Grupo, "tbl_cuentaporpagar", Monto, txtIdProveedor.Text, txtIdConcepto.Text);
+            //Función para insertar
             cn.OperacionesFinal(Grupo1, Grupo2, "asientos", "reservaciones");
             limpiar();
         }
@@ -41,6 +42,7 @@ namespace CxPVista
         }
         public void limpiar()
         {
+            //limpiando textbox
             txtIdAsiento.Text = "";
             txtIdSala.Text = "";
             txtFila.Text = "";

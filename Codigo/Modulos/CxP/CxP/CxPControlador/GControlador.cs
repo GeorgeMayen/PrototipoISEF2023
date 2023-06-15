@@ -181,7 +181,7 @@ namespace CxPControlador
         {
             string sql1 = "", sql2 = "";
 
-
+            //Sql que utilizaremos para realizar el registro
             sql1 = ingresar(textbox1, tabla1);
             sql2 = ingresar(textbox2, tabla2);
             sn.actualizartransaccion(sql1, sql2);
