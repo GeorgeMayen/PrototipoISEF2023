@@ -20,7 +20,7 @@ namespace CxPVista
             customizeDesing();
             Button[] apps = { btnConcepto,btnMoviminetos};
             cnseg.deshabilitarApps(apps);
-
+            //Dandoles acceso
             cnseg.getAccesoApp(5004, apps[0]);// la 0
             cnseg.getAccesoApp(5101, apps[1]);// la 1
  
@@ -71,7 +71,6 @@ namespace CxPVista
             ReservacionesAsientos RA = new ReservacionesAsientos();
             RA.MdiParent = this;
             RA.Show();
-
             //Ocultar submenu
             hideSubMenu();
         }
